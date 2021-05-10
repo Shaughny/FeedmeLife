@@ -8,7 +8,7 @@ for(let i =0;i<cartObject.length;i++){
     if(cartObject[i]['amount']>0){
        renderCart(cartObject[i]);
     }
-    if(cartObject[i]['sale'] === "true"){
+    if(toString(cartObject[i]['sale'])  === "true"){
         renderDeals(cartObject[i]);
     }
 }
@@ -27,7 +27,7 @@ updateTotalPrice();
 
 
 goBack.addEventListener("click", () => {
-    window.location.href = "https://feedmelife.herokuapp.com/index.php" ;
+    window.location.href = "https://feedmelife.herokuapp.com/index.php";
 });
 
 placeOrder.addEventListener("click", () => {
