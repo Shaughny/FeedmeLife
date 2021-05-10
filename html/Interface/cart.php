@@ -164,7 +164,7 @@
 
             <p id="total">Total:</p>
             <div class="calc-total">
-                <span id="final-price">$0.0</span>
+                <span id="final-price">$0.00</span>
             </div>
 
 
@@ -188,7 +188,7 @@
                     <div class="items">
 
                         <span id="item-label">Items: </span>
-                        <span id="items">4</span>
+                        <span id="items">0</span>
                     </div>
 
                 </div>
