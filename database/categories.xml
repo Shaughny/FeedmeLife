@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <category name="Fruits &amp; Veges">
+        <subcategory>Fruits</subcategory>
+        <subcategory>Vegetables</subcategory>
+    </category>
+    <category name="Dairy &amp; Eggs">
+        <subcategory>Milk, Cream &amp; Butter</subcategory>
+        <subcategory>Eggs &amp; Yogurt</subcategory>
+        <subcategory>Cheese &amp; Dips</subcategory>
+        <subcategory>Desserts</subcategory>
+    </category>
+    <category name="Pantry">
+        <subcategory>Cereal</subcategory>
+        <subcategory>Oils &amp; vinegar</subcategory>
+        <subcategory>World cuisine</subcategory>
+        <subcategory>Pasta &amp; rice</subcategory>
+    </category>
+    <category name="Beverages">
+        <subcategory>Coffee</subcategory>
+        <subcategory>Hot drinks</subcategory>
+        <subcategory>Juices</subcategory>
+        <subcategory>Soft drinks</subcategory>
+    </category>
+    <category name="Meat &amp; Poultry">
+        <subcategory>Pork</subcategory>
+        <subcategory>Chicken</subcategory>
+        <subcategory>Beef</subcategory>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </category>
+    <category name="Snacks">
+        <subcategory>Salty snacks</subcategory>
+        <subcategory>Sweets</subcategory>
+    </category>
+    <category name="Prepared Meals">
+        <subcategory>Deli meals</subcategory>
+        <subcategory>Dips &amp; Pates</subcategory>
+        <subcategory>Ready meals</subcategory>
+    </category>
+    <category name="Bakery">
+        <subcategory>Freshly Baked Bread</subcategory>
+        <subcategory>Buns &amp; Rolls</subcategory>
+        <subcategory>Tortillas &amp; flat breads</subcategory>
+        <subcategory>Muffins, bagels &amp; baked goods</subcategory>
+    </category>
+    <category name="Frozen">
+        <subcategory>Beverages &amp; Ice</subcategory>
+        <subcategory>Fish &amp; Seafood</subcategory>
+        <subcategory>Pizza &amp; pasta</subcategory>
+        <subcategory>Frozen vegetables</subcategory>
+    </category>
+</root>

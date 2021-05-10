@@ -1,0 +1,250 @@
+body {
+    background-image: linear-gradient(
+      45deg
+      , #efece9, #ded9d3);
+      margin: 0;
+    
+  }
+  html, 
+  body {
+      height: 100%;
+  }
+
+.product{
+    margin-top: 10%;
+    width: auto;
+    max-width: 95%;
+    padding-bottom: 12em;
+}
+
+.img-container {
+    position:relative;
+  }
+  
+  .img-container img {
+        border:  solid #ddd;
+        border-radius: 4px;
+        padding: 1%;
+        max-width: 100%;
+  }
+#product-name{
+
+    font-size: 1.5rem;
+    /*margin-left: 10%;*/
+    text-align: center;
+    color: #000;
+
+}
+#product-size{
+    color: rgb(102, 99, 99);
+    font-size: 1.3em;
+    margin-left: 2%;
+    margin-top: 5%;
+    text-align: start;
+    
+}
+#product-price{
+    
+    margin-left: 2%;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: start;
+    color: #000;
+
+}
+#subtotal{
+    white-space: nowrap;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #000;
+}
+.bottom{
+    position: absolute;
+    bottom:   0;
+    right: 0;
+    
+       
+}
+.quantity{
+    display: inline;
+}
+
+
+
+.wrap{
+    
+     display: table-cell;
+     width: 100%;
+    
+
+}
+div.t {
+    display: table-cell;
+    width: 100%;
+}
+/* to remove the up and down arrows on the input */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.control{
+    width: 13%;
+}
+button{
+    
+    box-sizing: border-box;
+    margin:0 0.3em 0.3em 0;
+    border:0.1em solid #646262;
+    white-space:nowrap;
+    text-align:center;
+    transition: all 0.2s;
+    font-family:'Roboto',sans-serif;
+    background: black;
+    color:#f8f7f7;
+    font-size: 1rem;
+    border-radius: 2px;
+}
+button:hover{
+    
+    color:#ffffff; 
+    background: rgb(26, 25, 25);
+    
+    
+                    
+}
+#info{
+    
+    align-self: center;
+    padding:0.35em 1.2em;  
+    box-sizing: border-box;
+    margin:0 0.3em 0.3em 0;
+    border:0.1em solid #646262;
+    white-space:nowrap;
+    text-align:center;
+    transition: all 0.2s;
+    font-family:'Roboto',sans-serif;
+    background: black;
+    color:#f8f7f7;
+    font-size: 1rem;
+    border-radius: 2px;
+    margin-top: 4%;
+    margin-left: 10%;
+    
+    
+}
+#para{
+    margin-left: 10%;
+    font-size: 1em;
+    width: 90%;
+
+   
+   
+}
+.description{
+    position: relative;  
+    width:  80%;
+    max-width: 80%;
+
+}
+
+.text{
+    position: relative;    
+}
+
+/* footer*/
+p{
+    color: #999;
+    line-height: 25px;
+}
+h2,h3 {
+    color: #fff;
+}
+h2{
+    font-size: 18px;
+}
+.footer-top {
+    background: #111;
+    padding: 80px 0;
+}
+.segment-one h3 {
+    font-family:'Courier New', Courier, monospace;
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 10px 0;
+}
+.segment-two h2{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.segment-two h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-two ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-two ul li{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    line-height: 40px;
+}
+.segment-two ul li a {
+    color: #999;
+    text-decoration: none;
+}
+.segment-three h2 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.segment-three h2:before {
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-three a {
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: incline-block;
+    border-radius: 50%;
+}
+.segment-three a i {
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+.segment-four h2 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.segment-four h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-four form input[type=submit]{
+    background: #bb4832;
+    border: none;
+    padding: 3px 15px;
+    margin-left: -5px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.footer-bottom-text {
+    text-align: center;
+    background: #000;
+    line-height: 75px;
+}

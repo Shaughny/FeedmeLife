@@ -1,0 +1,1205 @@
+
+<root>
+    <product>
+        <id>1</id>
+        <name>1 Percent Milk</name>
+        <image>../../images/1percent_milk.jpg</image>
+        <price>1.99</price>
+        <quantity>2L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Only 1% fat , but 100% tasty.</description>
+        <category>Dairy</category>
+        <subcategory>Milk, Cream &amp; Butter</subcategory>
+    </product>
+    <product>
+        <id>2</id>
+        <name>2 Percent Greek Yogurt</name>
+        <image>../../images/yogurt.jpg</image>
+        <price>7.98</price>
+        <quantity>750g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Staight out of Athens and into your bowl with only 2% fat to show for it</description>
+        <category>Dairy</category>
+        <subcategory>Eggs &amp; Yogurt</subcategory>
+    </product>
+    <product>
+        <id>3</id>
+        <name>2 Percent Milk</name>
+        <image>../../images/2percent_milk.jpg</image>
+        <price>1.99</price>
+        <quantity>2L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>word wordsss lots of words more words . words wordssssss more words word wordsss lots of words more words . words wordssssss more words word wordsss lots of words more words . words wordssssss more words word wordsss lots of words more words . words wordssssss more words</description>
+        <category>Dairy</category>
+        <subcategory>Milk, Cream &amp; Butter</subcategory>
+    </product>
+    <product>
+        <id>4</id>
+        <name>10 Percent Cream</name>
+        <image>../../images/cream.jpg</image>
+        <price>2.99</price>
+        <quantity>1L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best cream to get your coffee nice and thick.
+        </description>
+        <category>Dairy</category>
+        <subcategory>Milk, Cream &amp; Butter</subcategory>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Angus Beef</name>
+        <image>../../images/angus.jpg</image>
+        <price>22.78</price>
+        <quantity>1200g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Beef</subcategory>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Apple Juice</name>
+        <image>../../images/aj.png</image>
+        <price>3.78</price>
+        <quantity>1L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Straight from fresh California apples.</description>
+        <category>Beverages</category>
+        <subcategory>Juices</subcategory>
+    </product>
+    <product>
+        <id>7</id>
+        <name>Apple Pie</name>
+        <image>../../images/applepie.jpg</image>
+        <price>6.78</price>
+        <quantity>400g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Good ol' fashioned apple pie.</description>
+        <category>Bakery</category>
+        <subcategory>Muffins, bagels &amp; baked goods</subcategory>
+    </product>
+    <product>
+        <id>8</id>
+        <name>Apples</name>
+        <image>../../images/apples.jpg</image>
+        <price>1.78</price>
+        <quantity>1lb</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The good stuff. The goodest of good when it comes to apples and all natural</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+    </product>
+    <product>
+        <id>9</id>
+        <name>Asian Noodles</name>
+        <image>../../images/asiannoodles.jpg</image>
+        <price>7.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Exotic Flavours!</description>
+        <category>Pantry</category>
+        <subcategory>World cuisine</subcategory>
+    </product>
+    <product>
+        <id>10</id>
+        <name>Bacon</name>
+        <image>../../images/bacon.jpg</image>
+        <price>7.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Pork</subcategory>
+    </product>
+    <product>
+        <id>11</id>
+        <name>Bagel</name>
+        <image>../../images/bagels.jpg</image>
+        <price>5.78</price>
+        <quantity>480g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Who wouldnt love these high quality bagels,</description>
+        <category>Bakery</category>
+        <subcategory>Muffins, bagels &amp; baked goods</subcategory>
+    </product>
+    <product>
+        <id>12</id>
+        <name>Bag of Ice</name>
+        <image>../../images/iceCube.jpg</image>
+        <price>2.78</price>
+        <quantity>3L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Coldest ice out there.</description>
+        <category>Frozen</category>
+        <subcategory>Beverages &amp; Ice</subcategory>
+    </product>
+    <product>
+        <id>13</id>
+        <name>Baguette</name>
+        <image>../../images/baguette.jpg</image>
+        <price>2.99</price>
+        <quantity>325g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The frenchest, freshest bread on the web.</description>
+        <category>Bakery</category>
+        <subcategory>Freshly Baked Bread</subcategory>
+    </product>
+    <product>
+        <id>14</id>
+        <name>Bananas</name>
+        <image>../../images/banana.jpg</image>
+        <price>1.30</price>
+        <quantity>2lb</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>We're all about monkey business with these sweet sweet bananas.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+    </product>
+    <product>
+        <id>15</id>
+        <name>Broccoli</name>
+        <image>../../images/broccoli.jpg</image>
+        <price>2.98</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Wow so green, such fresh. The best broccoli in town.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Vegetables</subcategory>
+    </product>
+    <product>
+        <id>16</id>
+        <name>Carrot cake</name>
+        <image>../../images/carrot_cake.jpg</image>
+        <price>18.99</price>
+        <quantity>1500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Made with real carrots!</description>
+        <category>Dairy</category>
+        <subcategory>Desserts</subcategory>
+    </product>
+    <product>
+        <id>17</id>
+        <name>Cheddar</name>
+        <image>../../images/cheddar.jpg</image>
+        <price>7.99</price>
+        <quantity>7.99</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>What a classic, how could you go wrong with cheddar cheese.</description>
+        <category>Dairy</category>
+        <subcategory>Cheese &amp; Dips</subcategory>
+    </product>
+    <product>
+        <id>18</id>
+        <name>Cheese Pizza</name>
+        <image>../../images/cheesePizza.jpg</image>
+        <price>3.78</price>
+        <quantity>1000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Pizza &amp; pasta</subcategory>
+    </product>
+    <product>
+        <id>19</id>
+        <name>Chicken Breasts</name>
+        <image>../../images/chickenbreast.jpg</image>
+        <price>16.78</price>
+        <quantity>1600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Chicken</subcategory>
+    </product>
+    <product>
+        <id>20</id>
+        <name>Chicken Pizza</name>
+        <image>../../images/chickenPizza.jpg</image>
+        <price>3.78</price>
+        <quantity>1000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Pizza &amp; pasta</subcategory>
+    </product>
+    <product>
+        <id>21</id>
+        <name>Chicken Wings</name>
+        <image>../../images/chickenwings.jpg</image>
+        <price>15.78</price>
+        <quantity>1300g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Chicken</subcategory>
+    </product>
+    <product>
+        <id>22</id>
+        <name>Salted Chips</name>
+        <image>../../images/chips.jpg</image>
+        <price>2.78</price>
+        <quantity>800g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Salty and Satisfying</description>
+        <category>Snacks</category>
+        <subcategory>Salty Snacks</subcategory>
+    </product>
+    <product>
+        <id>23</id>
+        <name>Cola</name>
+        <image>../../images/cola.jpg</image>
+        <price>1.78</price>
+        <quantity>2L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Ultra fizzy and ultra tasty.</description>
+        <category>Beverages</category>
+        <subcategory>Soft drinks</subcategory>
+    </product>
+    <product>
+        <id>24</id>
+        <name>Crackers</name>
+        <image>../../images/crackers.jpg</image>
+        <price>1.78</price>
+        <quantity>300g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Salty and Satisfying</description>
+        <category>Snacks</category>
+        <subcategory>Salty Snacks</subcategory>
+    </product>
+    <product>
+        <id>25</id>
+        <name>Diet Cola</name>
+        <image>../../images/dietcola.jpg</image>
+        <price>1.78</price>
+        <quantity>2L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Ultra fizzy and ultra tasty</description>
+        <category>Beverages</category>
+        <subcategory>Soft drinks</subcategory>
+    </product>
+    <product>
+        <id>26</id>
+        <name>Dozen Eggs</name>
+        <image>../../images/eggs.jpg</image>
+        <price>3.00</price>
+        <quantity>12</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Beautiful Free run eggs , but not like that movie, chicken run.</description>
+        <category>Dairy</category>
+        <subcategory>Eggs &amp; Yogurt</subcategory>
+    </product>
+    <product>
+        <id>27</id>
+        <name>Fish Filets</name>
+        <image>../../images/fishFilets.jpg</image>
+        <price>3.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>28</id>
+        <name>Fish Sticks</name>
+        <image>../../images/fishSticks.jpg</image>
+        <price>3.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>29</id>
+        <name>3 Cheese Fondue</name>
+        <image>../../images/fondue.jpg</image>
+        <price>4.99</price>
+        <quantity>500ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Embrace your inner bourgoisie with this sophisticated medley fondue mix.
+        </description>
+        <category>Dairy</category>
+        <subcategory>Cheese &amp; Dips</subcategory>
+    </product>
+    <product>
+        <id>30</id>
+        <name>French Fries</name>
+        <image>../../images/frenchFries.jpg</image>
+        <price>2.78</price>
+        <quantity>700g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Crispy frozen french fries to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Frozen vegetables</subcategory>
+    </product>
+    <product>
+        <id>31</id>
+        <name>Frozen Punch</name>
+        <image>../../images/frozenPunch.jpg</image>
+        <price>1.78</price>
+        <quantity>450ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen fruit medley drink.</description>
+        <category>Frozen</category>
+        <subcategory>Beverages &amp; Ice</subcategory>
+    </product>
+    <product>
+        <id>32</id>
+        <name>Frozen Shrimp</name>
+        <image>../../images/frozenShrimp.jpg</image>
+        <price>10.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>33</id>
+        <name>Fruit Blend</name>
+        <image>../../images/fruitBlend.jpg</image>
+        <price>1.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best frozen combination of fruits to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Frozen vegetables</subcategory>
+    </product>
+    <product>
+        <id>34</id>
+        <name>Granola</name>
+        <image>../../images/granola.jpg</image>
+        <price>6.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>What a mix! oats and nuts!</description>
+        <category>Pantry</category>
+        <subcategory>Cereal</subcategory>
+    </product>
+    <product>
+        <id>35</id>
+        <name>Green Tea</name>
+        <image>../../images/greentea.jpg</image>
+        <price>3.78</price>
+        <quantity>24 bags</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>So natural and fresh! Only the best herbs.</description>
+        <category>Beverages</category>
+        <subcategory>Hot drinks</subcategory>
+    </product>
+    <product>
+        <id>36</id>
+        <name>Ground Coffee</name>
+        <image>../../images/groundcoffee.jpg</image>
+        <price>15.78</price>
+        <quantity>1000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>This is for all our morning people.</description>
+        <category>Beverages</category>
+        <subcategory>Coffee</subcategory>
+    </product>
+    <product>
+        <id>37</id>
+        <name>Ground Pork</name>
+        <image>../../images/pork.jpg</image>
+        <price>13.78</price>
+        <quantity>1300g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Pork</subcategory>
+    </product>
+    <product>
+        <id>38</id>
+        <name>Halibut</name>
+        <image>../../images/halibut.jpg</image>
+        <price>11.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>39</id>
+        <name>Smoked Ham</name>
+        <image>../../images/ham.jpg</image>
+        <price>12.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best fresh meat on the web!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Pork</subcategory>
+    </product>
+    <product>
+        <id>40</id>
+        <name>Ham Sandwich</name>
+        <image>../../images/hamsand.jpg</image>
+        <price>4.78</price>
+        <quantity>250g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Ready to go for you to enjoy right away!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Deli meals</subcategory>
+    </product>
+    <product>
+        <id>41</id>
+        <name>Honey</name>
+        <image>../../images/honey.jpg</image>
+        <price>2.78</price>
+        <quantity>500ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Fresh and Sweet!</description>
+        <category>Pantry</category>
+        <subcategory>Cereal</subcategory>
+    </product>
+    <product>
+        <id>42</id>
+        <name>Hot Chocolate</name>
+        <image>../../images/hotcoco.jpg</image>
+        <price>3.78</price>
+        <quantity>24 Pouches</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Good ol' hot coco for a cold winter day.</description>
+        <category>Beverages</category>
+        <subcategory>Hot drinks</subcategory>
+    </product>
+    <product>
+        <id>43</id>
+        <name>Hot Dog Buns</name>
+        <image>../../images/hotdogbuns.jpg</image>
+        <price>3.00</price>
+        <quantity>6 buns</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The classic hot dog bun!</description>
+        <category>Bakery</category>
+        <subcategory>Buns &amp; Rolls</subcategory>
+    </product>
+    <product>
+        <id>44</id>
+        <name>Hummus</name>
+        <image>../../images/hummus.jpg</image>
+        <price>4.78</price>
+        <quantity>300ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Spread hummus not hate!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Dips &amp; Pates</subcategory>
+    </product>
+    <product>
+        <id>45</id>
+        <name>Lemon Ice Cream</name>
+        <image>../../images/ice_cream.jpg</image>
+        <price>4.99</price>
+        <quantity>1.5L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>It's ice cream, what else do you want?</description>
+        <category>Dairy</category>
+        <subcategory>Desserts</subcategory>
+    </product>
+    <product>
+        <id>46</id>
+        <name>Instant Coffee</name>
+        <image>../../images/instant.jpg</image>
+        <price>12.78</price>
+        <quantity>750g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>This ones for all our lazy morning people.</description>
+        <category>Beverages</category>
+        <subcategory>Coffee</subcategory>
+    </product>
+    <product>
+        <id>47</id>
+        <name>Strawberry Jam</name>
+        <image>../../images/strawberryjam.jpg</image>
+        <price>2.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Fresh and sweet!</description>
+        <category>Pantry</category>
+        <subcategory>Cereal</subcategory>
+    </product>
+    <product>
+        <id>48</id>
+        <name>Lobster Tail and Claws</name>
+        <image>../../images/lobster.jpg</image>
+        <price>24.78</price>
+        <quantity>1000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>When life gives you lemons, order the lobster tail!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>49</id>
+        <name>Mars Bar</name>
+        <image>../../images/mars_bar.jpg</image>
+        <price>1.78</price>
+        <quantity>150g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>To satisfy that sweet tooth!</description>
+        <category>Snacks</category>
+        <subcategory>Sweets</subcategory>
+    </product>
+    <product>
+        <id>50</id>
+        <name>Masala sauce</name>
+        <image>../../images/masala.jpg</image>
+        <price>2.78</price>
+        <quantity>400ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Exotic Flavours!</description>
+        <category>Pantry</category>
+        <subcategory>World cuisine</subcategory>
+    </product>
+    <product>
+        <id>51</id>
+        <name>Meatball Sub</name>
+        <image>../../images/meatball.png</image>
+        <price>4.78</price>
+        <quantity>250g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Everyone enjoys a good 12 inch</description>
+        <category>Prepared Meals</category>
+        <subcategory>Deli meals</subcategory>
+    </product>
+    <product>
+        <id>52</id>
+        <name>3 Percent Cherry Milkshake</name>
+        <image>../../images/milk_shake.jpg</image>
+        <price>2.78</price>
+        <quantity>450g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>This amazing drink will be bringing everyone to the yard.</description>
+        <category>Dairy</category>
+        <subcategory>Desserts</subcategory>
+    </product>
+    <product>
+        <id>53</id>
+        <name>Mint Tea</name>
+        <image>../../images/mint.jpg</image>
+        <price>3.78</price>
+        <quantity>24 pouches</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>All Natural Mint!</description>
+        <category>Beverages</category>
+        <subcategory>Hot Drinks</subcategory>
+    </product>
+    <product>
+        <id>54</id>
+        <name>Blueberry Muffin</name>
+        <image>../../images/blueberrymuffins.jfif</image>
+        <price>1.99</price>
+        <quantity>2L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Better than a blueberry waffle!</description>
+        <category>Bakery</category>
+        <subcategory>Muffins, bagels &amp; baked goods</subcategory>
+    </product>
+    <product>
+        <id>55</id>
+        <name>White Mushrooms</name>
+        <image>../../images/mushrooms.jpg</image>
+        <price>2.99</price>
+        <quantity>250g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>They're edible , we promise!</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Vegetables</subcategory>
+    </product>
+    <product>
+        <id>56</id>
+        <name>Mussels</name>
+        <image>../../images/mussels.jpg</image>
+        <price>6.99</price>
+        <quantity>400g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>I see you checking out my mussels</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>57</id>
+        <name>Naan Bread</name>
+        <image>../../images/naan.jpg</image>
+        <price>4.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Get your nan and buy some of this amazing naan bread.</description>
+        <category>Bakery</category>
+        <subcategory>Tortillas &amp; flat breads</subcategory>
+    </product>
+    <product>
+        <id>58</id>
+        <name>Olive Oil</name>
+        <image>../../images/oliveoil.jpg</image>
+        <price>12.78</price>
+        <quantity>600ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>This guy is straight out of the mediterranean.</description>
+        <category>Pantry</category>
+        <subcategory>Oils &amp; vinegar</subcategory>
+    </product>
+    <product>
+        <id>59</id>
+        <name>Brown Onion</name>
+        <image>../../images/onion.jpg</image>
+        <price>2.38</price>
+        <quantity>300g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>If these dont make you cry , the prices will.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Vegetables</subcategory>
+    </product>
+    <product>
+        <id>60</id>
+        <name>Orange Juice</name>
+        <image>../../images/oj.png</image>
+        <price>3.78</price>
+        <quantity>1L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Straight from fresh California oranges.</description>
+        <category>Beverages</category>
+        <subcategory>Juices</subcategory>
+    </product>
+    <product>
+        <id>61</id>
+        <name>Oranges</name>
+        <image>../../images/oranges.jpg</image>
+        <price>2.78</price>
+        <quantity>1lb</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Say goodbye and see you never to scurvy with these fresh oranges.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+    </product>
+    <product>
+        <id>62</id>
+        <name>Organic Brown Eggs</name>
+        <image>../../images/organic_eggs.jpg</image>
+        <price>7.00</price>
+        <quantity>12</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>These eggs were hatched by vegan, free range hens who lived 2771 meters up in the himilayas for optimal oxygen content.</description>
+        <category>Dairy</category>
+        <subcategory>Eggs &amp; Yogurt</subcategory>
+    </product>
+    <product>
+        <id>63</id>
+        <name>Peanuts</name>
+        <image>../../images/peanuts.jpg</image>
+        <price>3.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Salty and Satisfying</description>
+        <category>Snacks</category>
+        <subcategory>Salty Snacks</subcategory>
+    </product>
+    <product>
+        <id>64</id>
+        <name>Pesto</name>
+        <image>../../images/pesto.jpg</image>
+        <price>3.29</price>
+        <quantity>400ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Spread pesto not hate!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Dips &amp; Pates</subcategory>
+    </product>
+    <product>
+        <id>65</id>
+        <name>Pita Bread</name>
+        <image>../../images/1percent_milk.jpg</image>
+        <price>1.78</price>
+        <quantity>250g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best bread in the universe guaranteed.</description>
+        <category>Bakery</category>
+        <subcategory>Tortillas &amp; flat breads</subcategory>
+    </product>
+    <product>
+        <id>66</id>
+        <name>Vanilla Pudding</name>
+        <image>../../images/vanilla_pudding.jpg</image>
+        <price>1.78</price>
+        <quantity>250ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Take one , you deserve one of these rich treats.</description>
+        <category>Snacks</category>
+        <subcategory>Sweets</subcategory>
+    </product>
+    <product>
+        <id>67</id>
+        <name>Quinoa</name>
+        <image>../../images/quinoa.jpg</image>
+        <price>4.78</price>
+        <quantity>900g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Quinoa or qui noah, we all know someone who can't pronounce this properly
+        </description>
+        <category>Pantry</category>
+        <subcategory>World cuisine</subcategory>
+    </product>
+    <product>
+        <id>68</id>
+        <name>Red Grapes</name>
+        <image>../../images/grapes.jpg</image>
+        <price>6.00</price>
+        <quantity>1000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Feel like a king or queen while being fed a mouthful of these delightful red grapes.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+    </product>
+    <product>
+        <id>69</id>
+        <name>Reese Cups</name>
+        <image>../../images/reeces.jpg</image>
+        <price>3.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Stuff your cheeks with these bad boys, may contain peanuts</description>
+        <category>Snacks</category>
+        <subcategory>Sweets</subcategory>
+    </product>
+    <product>
+        <id>70</id>
+        <name>Rack of Ribs</name>
+        <image>../../images/ribs.jpg</image>
+        <price>14.78</price>
+        <quantity>900g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>When the going gets tough, the tough eat ribs</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Beef</subcategory>
+    </product>
+    <product>
+        <id>71</id>
+        <name>Rye Bread Loaf</name>
+        <image>../../images/rye.jfif</image>
+        <price>3.78</price>
+        <quantity>400g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Nothing but the best rye for you guys.</description>
+        <category>Bakery</category>
+        <subcategory>Freshly Baked Bread</subcategory>
+    </product>
+    <product>
+        <id>72</id>
+        <name>Salad</name>
+        <image>../../images/salad.jpg</image>
+        <price>3.99</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>My heart says chocolate and wine but my jeans say for the love of god eat a salad!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Ready meals</subcategory>
+    </product>
+    <product>
+        <id>73</id>
+        <name>Atlantic Salmon</name>
+        <image>../../images/salmon.jpg</image>
+        <price>16.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Yes there are a lot of fish in the sea, but this one's the best</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Fish &amp; Seafood</subcategory>
+    </product>
+    <product>
+        <id>74</id>
+        <name>Sliced White Bread</name>
+        <image>../../images/slicedbread.jpeg</image>
+        <price>2.50</price>
+        <quantity>675g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best thing since... itself!</description>
+        <category>Bakery</category>
+        <subcategory>Buns &amp; Rolls</subcategory>
+    </product>
+    <product>
+        <id>75</id>
+        <name>Small White Buns</name>
+        <image>../../images/smallbuns.jpg</image>
+        <price>2.78</price>
+        <quantity>600g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Wow these are some high quality buns. Straight out of the bakery.</description>
+        <category>Bakery</category>
+        <subcategory>Buns &amp; Rolls</subcategory>
+    </product>
+    <product>
+        <id>76</id>
+        <name>Fruit Smoothie</name>
+        <image>../../images/fruitsmoothie.jpg</image>
+        <price>5.78</price>
+        <quantity>1L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Just a perfect medley of fruit in one drink!</description>
+        <category>Beverages</category>
+        <subcategory>Juices</subcategory>
+    </product>
+    <product>
+        <id>77</id>
+        <name>14 percent Sour Cream</name>
+        <image>../../images/sour_cream.jpg</image>
+        <price>4.99</price>
+        <quantity>500ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Surprisingly not that sour.</description>
+        <category>Dairy</category>
+        <subcategory>Cheese &amp; Dips</subcategory>
+    </product>
+    <product>
+        <id>78</id>
+        <name>Sprite</name>
+        <image>../../images/sprite.jpg</image>
+        <price>1.78</price>
+        <quantity>2L</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Ultra fizzy and ultra tasty.</description>
+        <category>Beverages</category>
+        <subcategory>Soft drinks</subcategory>
+    </product>
+    <product>
+        <id>79</id>
+        <name>Steak</name>
+        <image>../../images/steak.jpg</image>
+        <price>25.78</price>
+        <quantity>1200g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Slap this bad boy on the grill and all your neighbours will be jealous! Treat yourself king</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Beef</subcategory>
+    </product>
+    <product>
+        <id>80</id>
+        <name>Hothouse Red Tomato</name>
+        <image>../../images/tomatoes.jpg</image>
+        <price>0.78</price>
+        <quantity>200g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Tomato Tomatoe , whatever you call them, we got the best of them.
+        </description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Vegetables</subcategory>
+    </product>
+    <product>
+        <id>81</id>
+        <name>Tomato Soup</name>
+        <image>../../images/tomatosoup.jpg</image>
+        <price>4.99</price>
+        <quantity>500ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Nothing beats a fresh tomato soup and grilled cheese for lunch!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Ready meals</subcategory>
+    </product>
+    <product>
+        <id>82</id>
+        <name>Tortillas</name>
+        <image>../../images/tortillas.jpg</image>
+        <price>3.78</price>
+        <quantity>6</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Dont forget to buy some cheese and meat for burrito night.</description>
+        <category>Bakery</category>
+        <subcategory>Tortillas &amp; flat breads</subcategory>
+    </product>
+    <product>
+        <id>83</id>
+        <name>Tortellini</name>
+        <image>../../images/tortellini.jpg</image>
+        <price>5.78</price>
+        <quantity>800g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>The best pasta, right from Sicily.
+        </description>
+        <category>Pantry</category>
+        <subcategory>Pasta &amp; rice</subcategory>
+    </product>
+    <product>
+        <id>84</id>
+        <name>Turkey Sandwich</name>
+        <image>../../images/turkey.jpg</image>
+        <price>4.78</price>
+        <quantity>300g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Don't worry, we made sure the turkey is dead and ready to eat for ya!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Deli meals</subcategory>
+    </product>
+    <product>
+        <id>85</id>
+        <name>Tzatziki</name>
+        <image>../../images/tzatziki.jpg</image>
+        <price>2.78</price>
+        <quantity>400ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Get your dip on for greek night!</description>
+        <category>Prepared Meals</category>
+        <subcategory>Dips &amp; Pates</subcategory>
+    </product>
+    <product>
+        <id>86</id>
+        <name>Veggie Blend</name>
+        <image>../../images/veggieBlend.jpg</image>
+        <price>1.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Frozen vegetables to be ready anytime!</description>
+        <category>Frozen</category>
+        <subcategory>Frozen vegetables</subcategory>
+    </product>
+    <product>
+        <id>87</id>
+        <name>Vegetable Oil</name>
+        <image>../../images/vegetableoil.jpg</image>
+        <price>10.78</price>
+        <quantity>600ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>This guy is straight out of the mediterranean.</description>
+        <category>Pantry</category>
+        <subcategory>Oils &amp; vinegar</subcategory>
+    </product>
+    <product>
+        <id>88</id>
+        <name>Vegetarian Pizza</name>
+        <image>../../images/veggiePizza.jpg</image>
+        <price>3.78</price>
+        <quantity>1000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Enjoy a nice frozen pizza at a fraction of a cost of ordering in! MMM veggies!</description>
+        <category>Frozen</category>
+        <subcategory>Pizza &amp; pasta</subcategory>
+    </product>
+    <product>
+        <id>89</id>
+        <name>White Vinegar</name>
+        <image>../../images/vinegar.jpg</image>
+        <price>6.99</price>
+        <quantity>800ml</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Potent Stuff!
+        </description>
+        <category>Pantry</category>
+        <subcategory>Oils &amp; vinegar</subcategory>
+    </product>
+    <product>
+        <id>90</id>
+        <name>White Rice</name>
+        <image>../../images/whiterice.jpg</image>
+        <price>12.78</price>
+        <quantity>2000g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>Only the finest grains for our customers.</description>
+        <category>Pantry</category>
+        <subcategory>Pasta &amp; rice</subcategory>
+    </product>
+    <product>
+        <id>91</id>
+        <name>Whole Coffee Beans</name>
+        <image>../../images/coffeebeans.jpg</image>
+        <price>6.78</price>
+        <quantity>500g</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>For all the dedicated morning people.</description>
+        <category>Beverages</category>
+        <subcategory>Coffee</subcategory>
+    </product>
+    <product>
+        <id>92</id>
+        <name>Whole Chicken</name>
+        <image>../../images/wholechicken.jpg</image>
+        <price>18.78</price>
+        <quantity>1kg</quantity>
+        <amount>0</amount>
+        <sale>false</sale>
+        <saleprice></saleprice>
+        <description>What came first, the chicken or the egg? Who cares, eat both!</description>
+        <category>Meat &amp; Poultry</category>
+        <subcategory>Chicken</subcategory>
+    </product>
+</root>

@@ -1,0 +1,113 @@
+.contain{
+    border: #458a2c;
+    border-width: 1px;
+    left: 0%;
+}
+
+.sidebar{
+    height: 100%;
+    width: 200px;
+    padding-top: 130px;
+    background-color: #ced0ce;
+    position: absolute;
+    font-weight: 550;
+}
+.logo{
+    padding-left: 2rem;
+    line-height: 100px;
+    width: 100%;
+    height:100px;
+    position: absolute;
+    background-color: #d17002;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    font-weight: 550;
+
+}
+.logo a{ color: black;
+
+}
+.navbar-brand{
+    padding-right: 1rem;
+    padding-left: 1rem;
+    color: black;
+    transition:color 0.2s ease-in-out;
+    height: fit-content;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.content{
+    top: 100px;
+    left: 200px;
+    right:0%;
+    bottom: 0%;
+    padding: 2.5rem;
+    position: absolute;
+    background-color: #E6E8E6;
+    overflow: auto; 
+    box-shadow: inset 5px 5px 20px rgba(0, 0, 0, 0.1);
+    border-left: #a0a5a3 solid 2px;
+}
+.table{
+    font-size: 1.1rem;
+}
+.btn-info{
+    color: white!important;
+    background-color: #585c56;
+    border-color: #3F403F;
+}
+.btn-info:hover, .btn-info:active, .btn-info:focus {
+    color: white!important;
+    background-color: #949a97!important;
+    border-color: #3F403F!important;
+}
+.btn-info:focus, .btn-info:active, .btn-info:active:focus, .btn-info.active:focus{
+    box-shadow: 0 0 0 3px rgb(92, 90, 92)
+    
+}
+.form-control:active, .form-control:focus, .form-control:active:focus, .form-control.active:focus{
+    border-color: #949a97!important;
+    box-shadow: 0 0 0 3px rgb(215, 200, 179);
+    outline: #E6E8E6!important;
+}
+a.active{
+    background-color: #a0a5a3
+}
+
+.nav-item a{
+    color:black;
+}
+.nav-item{
+    transition:background-color 0.1s ease-in-out;
+}
+.nav-item:hover{
+    background-color: #c7b8a6
+}
+.row{
+    margin-bottom: 1rem;
+}
+.image{
+    position: sticky;
+    text-align: center;
+    bottom: 50%;
+    border: #9FB8AD;
+    border-radius: 4px;
+    margin-top: 3rem;
+}
+h4{
+    margin-bottom: -2rem;
+}
+
+
+/* to remove the up and down arrows on the input */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

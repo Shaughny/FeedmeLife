@@ -1,0 +1,302 @@
+.grid-item {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #082705;
+    font-size: 1.3vw;
+    text-align: center;
+    border-width: 40%;
+    border-radius: 10%;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    block-size: 5em;
+    
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(1,minmax(0,1fr));
+    grid-column-gap:50px;
+    grid-row-gap: 50px;
+    padding: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    overflow: hidden;
+}
+.grid-item p {
+    margin-top: 2% ;
+    color: black;
+}
+.grid-item:hover{
+    transform: scale(1.1);
+    border: 2px solid #176b0f;
+}
+.item-name{
+    color: #000;
+}
+
+/**css for small size screen 768 px to less than 992px wide**/
+@media only screen and (max-width: 1200px) and (min-width: 769px){
+    .grid-container{
+        grid-template-columns: repeat(2,minmax(0,1fr));
+    }
+}
+/*css for medium to large screen 99px to larger*/
+@media only screen and (min-width: 1200px){
+    .grid-container{
+        grid-template-columns: repeat(3,minmax(0,1fr));
+    }
+}
+
+
+
+
+.big-banner{
+    background-image: url('../images/mWallpaper.png');
+    background-position: top;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow: scroll;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+.item-1 {
+    background-image: url('../images/veges.jpg');
+}
+.item-2 {
+    background-image: url('../images/dairy.jpg');
+}
+.item-3 {
+    background-image: url('../images/meat.jpg');
+}
+.item-4 {
+    background-image: url('../images/canned.jpg');
+}
+.item-5 {
+    background-image: url('../images/snacks.jpg')
+}
+.item-6 {
+    background-image: url('../images/sweets.jpg');
+}
+.item-7 {
+    background-image: url('../images/frozen.jpg');
+}
+.item-8 {
+    background-image: url('../images/baked.jpg');
+}
+.item-9 {
+    background-image: url('../images/drinks.jpg');
+}
+
+/* Footer*/
+.footer {
+    background: #303036;
+    color: #d3d3d3;
+    height: 300px;
+    position:relative;
+}
+.footer .footer-content {
+    height: 350px;
+    display: flex;
+}
+.footer .footer-content .footer-section {
+    flex:1;
+    border: 1px solid white;
+    padding: 25px;
+}
+.footer .footer-bottom {
+    background: #343a40;
+    color: #686868;
+    height: 50px;
+    text-align: center;
+    left: 0px;
+    bottom: 0px;
+    padding-top: 10px;
+    width: 100%;
+}
+/* footer*/
+p{
+    color: #999;
+    line-height: 25px;
+}
+h2,h3 {
+    color: #fff;
+}
+h2{
+    font-size: 18px;
+}
+.footer-top {
+    background: #111;
+    padding: 80px 0;
+}
+.segment-one h3 {
+    font-family:'Courier New', Courier, monospace;
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 10px 0;
+}
+.segment-two h2{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.segment-two h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-two ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-two ul li{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    line-height: 40px;
+}
+.segment-two ul li a {
+    color: #999;
+    text-decoration: none;
+}
+.segment-three h2 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.segment-three h2:before {
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-three a {
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: incline-block;
+    border-radius: 50%;
+}
+.segment-three a i {
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+.segment-four h2 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.segment-four h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-four form input[type=submit]{
+    background: #bb4832;
+    border: none;
+    padding: 3px 15px;
+    margin-left: -5px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.footer-bottom-text {
+    text-align: center;
+    background: #000;
+    line-height: 75px;
+}
+
+/*Aisle menu styling*/
+.aisleMenu {
+    background-color: #fcfbfb;
+    position: absolute;
+    margin-left: 20%;
+    text-align: center;
+    width: 60%;
+    border-radius: 40px;
+    border: 5px solid #082705;
+    font: normal 16px/1.4 "Open Sans",
+    sans-serif;
+}
+#quoteButton{
+    text-align: center;
+    margin: 0 auto;
+}
+.menuItemActive {
+    font-weight: bold;
+}
+/*Media set for screens less than 992px wide */
+@media only screen and (max-width: 768px){
+#leftMenu {
+display: none;
+}
+#rightMenu{
+    margin-top: 8%;
+    margin-left: 5%;
+}
+#menuQuote {
+    background-color:  #e2e2e2;
+}
+#aisleTitle{
+    text-align: center;
+}
+}
+
+/*Quote css*/
+#menuQuote {
+    text-align: center;
+    margin-top: 20%;
+    padding: 8%;
+    border-radius: 10%;
+}
+
+
+/*Media for 900px to 1200px*/
+@media only screen and (min-width:768px){
+    .float-container {
+        border: 3px solid #fff;
+        padding: 10px;
+        position:relative;
+        left: 30%;
+        margin-right: -50%;
+        transform: translate(-50%);
+        display: flex;
+        border: 5px solid #082705;
+        overflow: hidden;
+        width: 70%;
+        }
+        .float-child {
+            float: left;
+            padding: 10px;
+            border: 2px solid rgb(243, 243, 243);
+        }
+        .menuItem {
+            padding-left: 5%;
+            padding-top: 5%;
+            padding-right: 5%;
+            padding-bottom: 5%;
+        }
+        #leftMenu {
+            display: block;
+            width: 25%;
+            background-color: #f0629100;
+            border-radius: 5%;
+        }
+        #rightMenu {
+            width: 75%;
+            overflow: scroll;
+        }
+        #aisleTitle{
+            display: none;
+        }
+}
+
+/*Media for medium 992px to 1200px large*/
+@media only screen and (max-width:1200px) and (min-width: 768px){
+    #thirdAisle{
+        display: none;
+    }
+}
+
+

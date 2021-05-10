@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <order>
+    <client>goo hoo</client>
+    <number>1</number>
+    <items>
+      <product>
+        <id>8</id>
+        <name>Apples</name>
+        <price>1.78</price>
+        <quantity>1lb</quantity>
+        <amount>2</amount>
+        <sale>false</sale>
+        <saleprice/>
+        <description>The good stuff. The goodest of good when it comes to apples and all natural</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+      </product>
+      <product>
+        <id>68</id>
+        <name>Red Grapes</name>
+        <price>6.00</price>
+        <quantity>1000g</quantity>
+        <amount>1</amount>
+        <sale>true</sale>
+        <saleprice>4.50</saleprice>
+        <description>Feel like a king or queen while being fed a mouthful of these delightful red grapes.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+      </product>
+    </items>
+    <subtotal>8.06</subtotal>
+    <qst>0.81</qst>
+    <gst>0.4</gst>
+    <total>9.27</total>
+  </order>
+  <order>
+    <client>John Admin</client>
+    <number>2</number>
+    <items>
+      <product>
+        <id>8</id>
+        <name>Apples</name>
+        <price>1.78</price>
+        <quantity>1lb</quantity>
+        <amount>1</amount>
+        <sale>false</sale>
+        <saleprice/>
+        <description>The good stuff. The goodest of good when it comes to apples and all natural</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+      </product>
+      <product>
+        <id>68</id>
+        <name>Red Grapes</name>
+        <price>6.00</price>
+        <quantity>1000g</quantity>
+        <amount>1</amount>
+        <sale>true</sale>
+        <saleprice>4.50</saleprice>
+        <description>Feel like a king or queen while being fed a mouthful of these delightful red grapes.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+      </product>
+    </items>
+    <subtotal>6.28</subtotal>
+    <qst>0.63</qst>
+    <gst>0.31</gst>
+    <total>7.22</total>
+  </order>
+  <order>
+    <client>John Admin</client>
+    <number>3</number>
+    <items>
+      <product>
+        <id>8</id>
+        <name>Apples</name>
+        <price>1.78</price>
+        <quantity>1lb</quantity>
+        <amount>1</amount>
+        <sale>false</sale>
+        <saleprice/>
+        <description>The good stuff. The goodest of good when it comes to apples and all natural</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+      </product>
+      <product>
+        <id>68</id>
+        <name>Red Grapes</name>
+        <price>6.00</price>
+        <quantity>1000g</quantity>
+        <amount>1</amount>
+        <sale>true</sale>
+        <saleprice>4.50</saleprice>
+        <description>Feel like a king or queen while being fed a mouthful of these delightful red grapes.</description>
+        <category>Fruits &amp; Veges</category>
+        <subcategory>Fruits</subcategory>
+      </product>
+    </items>
+    <subtotal>6.28</subtotal>
+    <qst>0.63</qst>
+    <gst>0.31</gst>
+    <total>7.22</total>
+  </order>
+</root>

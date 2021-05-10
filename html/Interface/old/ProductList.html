@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Product List</title>
+        <meta charset="utf-8">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+        <link rel="stylesheet" href="../../css/backStore.css">
+    </head>
+    <body>
+        <!-- Navbar Start -->
+        
+        <div class="sidebar">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link active" href="ProductList.html">Product List</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="userList.html">User List</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="orderList.html">Order List</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="EmployeeList.html">Employee List</a>
+                </li>
+            </ul>
+        </div>
+        <!--Navbar end-->
+        <div class="logo">
+            <a href="../../index.php" class="navbar-brand">FeedMeLife</a>
+			<a href="ProductList.html" class="navbar-brand">Backstore</a>
+			<a href="EmployeeSignIn.html" class="navbar-brand">Sign Out</a>
+
+        </div>
+        <div class="content">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">Item</th>
+                        <th scope="col">Isle</th>
+                        <th scope="col">Qty.</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Perishable</th>
+                        <th scope="col">Sale</th>
+			<th scope="col">Delete</th>
+                        <th scope="col">Edit</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row"></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+						<td></td>
+                        <td style="width: 10%;"><a class="btn btn-info" href="editProduct.html" role="button">+Item</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Apples</th>
+                        <td>Fruits & Veges</td>
+                        <td>89</td>
+                        <td>$0.89</td>
+                        <td>Yes</td>
+                        <td>No</td>
+						<td style="width: 10%;"><a class="btn btn-danger" href="#" role="button" value="delete-row" onclick="deleteRow(this)"> Delete</a></td>
+                        <td style="width: 10%;"><a class="btn btn-info" href="editProduct.html" role="button"> Edit</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Wine</th>
+                        <td>Beverages</td>
+                        <td>10</td>
+                        <td>$11.99</td>
+                        <td>Yes</td>
+                        <td>Yes</td>
+						<td style="width: 10%;"><a class="btn btn-danger" href="#" role="button" value="delete-row" onclick="deleteRow(this)"> Delete</a></td>
+                        <td style="width: 10%;"><a class="btn btn-info" href="editProduct.html" role="button"> Edit</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Placeholder</th>
+                        <td>Frozen</td>
+                        <td>89</td>
+                        <td>$0.89</td>
+                        <td>No</td>
+                        <td>No</td>
+						<td style="width: 10%;"><a class="btn btn-danger" href="#" role="button" value="delete-row" onclick="deleteRow(this)"> Delete</a></td>
+                        <td style="width: 10%;"><a class="btn btn-info" href="editProduct.html" role="button"> Edit</a></td>
+                    </tr>
+                </tbody>
+                </table>
+            </table>
+        </div>
+    
+        <script src="../../javascript/backstore-functions.js"></script>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    </body>
+
+    
+</html>
