@@ -8,7 +8,7 @@ for(let i =0;i<cartObject.length;i++){
     if(cartObject[i]['amount']>0){
        renderCart(cartObject[i]);
     }
-    if(cartObject[i]['sale'] === "true"){
+    if(cartObject[i]['sale'] === true){
         renderDeals(cartObject[i]);
     }
 }
