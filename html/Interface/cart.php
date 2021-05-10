@@ -241,9 +241,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-three">
                         <h2>Follow us</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae vero ab voluptate ut
-                            molestiae repellat dicta ex sit fugit quibusdam deleniti, nulla quis provident, nesciunt
-                            deserunt at id cupiditate. Porro!
+                        <p>We'd love to hear from you on our totally real social media pages! 
                         </p>
                         <a href="#">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white"
