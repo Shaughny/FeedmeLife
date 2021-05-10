@@ -176,8 +176,8 @@
     <price>1.30</price>
     <quantity>2lb</quantity>
     <amount>0</amount>
-    <sale>false</sale>
-    <saleprice/>
+    <sale>true</sale>
+    <saleprice>0.79</saleprice>
     <description>We're all about monkey business with these sweet sweet bananas.</description>
     <category>Fruits &amp; Veges</category>
     <subcategory>Fruits</subcategory>
