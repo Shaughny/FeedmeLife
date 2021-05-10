@@ -164,7 +164,7 @@
 
             <p id="total">Total:</p>
             <div class="calc-total">
-                <span id="final-price">$0.0</span>
+                <span id="final-price">$0.00</span>
             </div>
 
 
@@ -188,7 +188,7 @@
                     <div class="items">
 
                         <span id="item-label">Items: </span>
-                        <span id="items">4</span>
+                        <span id="items">0</span>
                     </div>
 
                 </div>
@@ -217,78 +217,7 @@
 
             </div>
             <div class="cart-items">
-                <!-- <div class="cart-row">
-                    <div class="item-product cart-column">
-                        <img class="item-image" src="../../images/ribs.jpg" width="100" height="100"></img>
-                        <span class="item-title">Rack of Ribs</span>
-                    </div>
-                    <span class="item-price cart-column">$14.78</span>
-                    <div class="item-quantity cart-column">
-                        <div class="dec button">-</div>
-                        <input type="number" id="1" class="item-quantity-input" value="1" min="1">
-                        <div class="inc button">+</div>
-                        <button class="quantity-save" type="submit">Save</button>
-                        <button class="item-delete" type="button">Delete</button>
-                    </div>
-
-                </div>
-                <div>
-                    <hr>
-                </div>
-                <div class="cart-row">
-                    <div class="item-product cart-column">
-                        <img class="item-image" src="../../images/steak.jpg" width="100" height="100"></img>
-                        <span class="item-title">Steak</span>
-                    </div>
-                    <span class="item-price cart-column">$25.78</span>
-                    <div class="item-quantity cart-column">
-                        <div class="dec button">-</div>
-                        <input type="number" id="2" class="item-quantity-input" value="1" min="1">
-                        <div class="inc button">+</div>
-                        <button class="quantity-save" type="submit">Save</button>
-                        <button class="item-delete" type="button">Delete</button>
-                    </div>
-                </div>
-                <div>
-                    <hr>
-                </div>
-                <div class="cart-row">
-                    <div class="item-product cart-column">
-                        <img class="item-image" src="../../images/chickenbreast.jpg" width="100" height="100"></img>
-                        <span class="item-title">Chicken Breasts</span>
-                    </div>
-                    <span class="item-price cart-column">$16.78</span>
-                    <div class="item-quantity cart-column">
-                        <div class="dec button">-</div>
-                        <input type="number" id="3" class="item-quantity-input" value="1" min="1">
-                        <div class="inc button">+</div>
-                        <button class="quantity-save" type="submit">Save</button>
-                        <form method="post">
-                           <input type='hidden' value="id">
-                         <button class="item-delete" type="submit">Delete</button>   
-                        </form>
-                        
-
-                    </div>
-                </div>
-                <div>
-                    <hr>
-                </div>
-                <div class="cart-row">
-                    <div class="item-product cart-column">
-                        <img class="item-image" src="../../images/salmon.jpg" width="100" height="100"></img>
-                        <span class="item-title">Atlantic Salmon</span>
-                    </div>
-                    <span class="item-price cart-column">$16.78</span>
-                    <div class="item-quantity cart-column">
-                        <div class="dec button">-</div>
-                        <input type="number" id="4" class="item-quantity-input" value="1" min="1">
-                        <div class="inc button">+</div>
-                        <button class="quantity-save" type="submit">Save</button>
-                        <button class="item-delete" type="button">Delete</button>
-                    </div>
-                </div>
-                <hr> -->
+              
 
             </div>
         </section>
@@ -300,18 +229,14 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
                         <h3>FeedMeLife</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam est ratione
-                            illum
-                            inventore, labore tenetur possimus quasi quibusdam dolore!</p>
+                        <p>Where the products aren't the only things that are fresh!</p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
-                        <h2>Links</h2>
+                        <h2>Promotions</h2>
                         <ul>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=sTJ1XwGDcA4">How fresh are our products?</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Want a chance for a $50 gift Card?</a></li>
+                            <li><a href="http://www.nooooooooooooooo.com/">Low Quality products?</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-three">
