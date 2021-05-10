@@ -27,7 +27,7 @@ updateTotalPrice();
 
 
 goBack.addEventListener("click", () => {
-    window.location.href = "https://users.encs.concordia.ca/~k_gholip/index.php" ;
+    window.location.href = "https://feedmelife.herokuapp.com/index.php" ;
 });
 
 placeOrder.addEventListener("click", () => {

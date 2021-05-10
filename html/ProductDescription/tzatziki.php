@@ -153,7 +153,7 @@ if(isset($_POST)){
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
                         <h2>Promotions</h2>
                         <ul>
-                            <li><a href="https://www.youtube.com/results?search_query=kool+and+the+gang+fresh">How fresh are our products?</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=sTJ1XwGDcA4">How fresh are our products?</a></li>
                             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Want a chance for a $50 gift Card?</a></li>
                             <li><a href="http://www.nooooooooooooooo.com/">Low Quality products?</a></li>
                         </ul>
