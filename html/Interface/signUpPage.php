@@ -270,24 +270,19 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
                         <h3>FeedMeLife</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam est ratione illum
-                            inventore, labore tenetur possimus quasi quibusdam dolore!</p>
+                        <p>Where the products aren't the only things that are fresh!</p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
-                        <h2>Links</h2>
+                        <h2>Promotions</h2>
                         <ul>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
-                            <li><a href="#">Event</a></li>
+                            <li><a href="https://www.youtube.com/results?search_query=kool+and+the+gang+fresh">How fresh are our products?</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Want a chance for a $50 gift Card?</a></li>
+                            <li><a href="http://www.nooooooooooooooo.com/">Low Quality products?</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-three">
                         <h2>Follow us</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae vero ab voluptate ut
-                            molestiae repellat dicta ex sit fugit quibusdam deleniti, nulla quis provident, nesciunt
-                            deserunt at id cupiditate. Porro!
+                        <p>We'd love to hear from you on our totally real social media pages!
                         </p>
                         <a href="#">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white"
