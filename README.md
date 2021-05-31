@@ -1,6 +1,6 @@
 # FeedmeLife
 
-Generic website for a fictional grocery store done for a school Assignment to learn the basics of front-end & back-end web development. 
+Website for a fictional grocery store done for a school assignment to learn the basics of front-end & back-end web development. 
 
 ### Used:
 - JavaScript
